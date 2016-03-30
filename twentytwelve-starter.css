@@ -1,0 +1,82 @@
+/*
+ Theme Name:   Frontier Title
+ Author:       Sparkfactor
+ Author URI:   http://sparkfactor.com
+ Template:     twentytwelve
+ Text Domain:  twentytwelve-child
+*/
+
+@import url("../twentytwelve/style.css");
+
+/* CSS
+----------------------------------------------*/
+
+/* General Body, HTML */
+
+html {
+    margin-top: 10px !important;
+}
+
+body {
+    background-color: #FFFFFF;
+}
+
+
+
+/* Header */
+
+
+
+
+/* Menus */
+
+
+
+
+/* Pages & Post Styles */
+
+.site-content article {
+    border-bottom: none;
+    margin-bottom: 10px;
+    padding-bottom: 15px;
+}
+
+
+
+footer.entry-meta { display: none; }
+
+/* Footer */
+
+footer[role="contentinfo"] {
+    border-top: none;
+    margin-top: 10px;
+    padding: 15px;
+}
+
+/* --- End Desktop --- */
+
+
+
+
+
+/* Mobile Optimization
+----------------------------------------------*/
+@media screen and (max-width: 320px) {
+
+
+} /* End Mobile */
+
+
+
+
+
+
+
+/* Tablet Optimization
+----------------------------------------------*/
+@media screen and (max-width: 768px) {
+
+
+} /* End Tablet */
+
+
